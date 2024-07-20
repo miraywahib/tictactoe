@@ -7,7 +7,7 @@ O="O"
 
 import random
 
-def update_board():
+def update_board(): #updating the board
     print(spot11," | ",spot12," | ",spot13)
     print("———+—————+———")
     print(spot21," | ",spot22," | ",spot23)
